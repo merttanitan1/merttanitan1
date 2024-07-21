@@ -87,16 +87,18 @@ Currently, I'm focused on the realms of decentralized finance (DeFi) and web3, w
     <th>Npm</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/spothq/cryptocurrency-icons/blob/master/svg/icon/eth.svg" width="80"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="80"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="80"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="80"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="80"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="80"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="80"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="80"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" width="80"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="80"/></td>
   </tr>
 </table>
 
 ## ![Profile Views](https://komarev.com/ghpvc/?username=merttanitan1)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Strike](https://github-readme-streak-stats.herokuapp.com/?user=merttanitan1&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merttanitan1&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merttanitan1&layout=compact&theme=radical)
