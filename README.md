@@ -10,20 +10,19 @@ Currently, I'm focused on the realms of decentralized finance (DeFi) and web3, w
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/merttanitan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/merttanitan)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/merttanitan1)
 
 
 ## Competitions: 🏅
 
-<div align="center">
-    <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="Under Construction" width="200"/>
-</div>
+[![typograssy](https://typograssy.deno.dev/api?text=Work%20In%20Progress%20&l0=161B22&bg=0D1117&frame=30363D)](https://github.com/kawarimidoll/typograssy)
 
 ## Working on: 🚀
 
 - Learning Solidity and advanced smart contract development
 - Fullstack Web3 development course
 - Ethereum development tasks
-- Various bots and scripts, with results showcased [here](https://github.com/username)
+- Various bots and scripts, with results showcased [here](https://github.com/merttanitan1?tab=repositories)
 
 ## Languages and Tools
 
@@ -31,62 +30,72 @@ Currently, I'm focused on the realms of decentralized finance (DeFi) and web3, w
 
 <table>
   <tr>
-    <th>Python3</th>
-    <th>C</th>
-    <th>JavaScript</th>
     <th>Solidity</th>
-    <th>GO</th>
+    <th>JavaScript</th>
+    <th>CSS</th>
+    <th>HTML</th>
+    <th>Rust</th>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Python3-F7DF1E?logo=python&logoColor=white" alt="Python3" width="50"/></td>
-    <td><img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" width="50"/></td>
-    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white" alt="JavaScript" width="50"/></td>
-    <td><img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" alt="Solidity" width="50"/></td>
-    <td><img src="https://img.shields.io/badge/GO-00ADD8?logo=go&logoColor=white" alt="GO" width="50"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" width="80"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="80"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="80"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="80"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="80"/></td>
   </tr>
 </table>
 
-### Best frameworks and main libraries for Python3:
-![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A)
-![Numpy](https://img.shields.io/badge/Numpy-013243)
-![Pandas](https://img.shields.io/badge/Pandas-150458)
-![Sklearn](https://img.shields.io/badge/Sklearn-F7931E)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8)
+### Libraries and Sources That I Use:
+<table>
+  <tr>
+    <th>OpenAI</th>
+    <th>Stack Overflow</th>
+    <th>OpenZeppelin</th>
+    <th>Web3.js</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/gilbarbara/logos/blob/main/logos/openai-icon.svg" width="80"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" width="80"/></td>
+    <td><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/openzeppelin.svg" width="80"/></td>
+    <td><img src="https://github.com/web3/web3.js/blob/5ad7e5bad7c7d2e1794f0ff5024897f3eaddff4c/assets/logo/web3js.svg" width="80"/></td>
+  </tr>
+</table>
 
-### My tools for Data Manipulation & Visualisation:
-![Conda](https://img.shields.io/badge/Conda-44A833)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626)
-![Spark](https://img.shields.io/badge/Spark-E25A1C)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1)
-![Postgres](https://img.shields.io/badge/Postgres-336791)
-![SQLite](https://img.shields.io/badge/SQLite-003B57)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
+### Blockchain's That I Use:
+<table>
+  <tr>
+    <th>Binance SC</th>
+    <th>Polygon</th>
+    <th>Ethereum</th>
+    <th>Solana</th>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/BNB%2C_native_cryptocurrency_for_the_Binance_Smart_Chain.svg" width="80"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/polygon/polygon-original.svg" width="80"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" width="80"/></td>
+    <td><img src="https://github.com/detain/svg-logos/blob/master/svg/s/solana.svg" width="80"/></td>
+  </tr>
+</table>
 
 ### Environments, Testing, Other:
-![nodejs](https://img.shields.io/badge/nodejs-339933)
-![Git](https://img.shields.io/badge/Git-F05032)
-![Docker](https://img.shields.io/badge/Docker-2496ED)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D)
-![Postman](https://img.shields.io/badge/Postman-FF6C37)
-![VBox](https://img.shields.io/badge/VBox-183A61)
-![HardHat](https://img.shields.io/badge/HardHat-FFCB2B)
+<table>
+  <tr>
+    <th>NodeJS</th>
+    <th>Git</th>
+    <th>Postman</th>
+    <th>HardHat</th>
+    <th>Npm</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/spothq/cryptocurrency-icons/blob/master/svg/icon/eth.svg" width="80"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="80"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="80"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="80"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="80"/></td>
+  </tr>
+</table>
 
-### OS:
-![Linux](https://img.shields.io/badge/Linux-FCC624)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420)
-![Kali](https://img.shields.io/badge/Kali-557C94)
-
-### Tools for CTF's
-![Metasploit](https://img.shields.io/badge/Metasploit-319DFF)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7)
-![Burpsuite](https://img.shields.io/badge/Burpsuite-FF6F00)
-![Netcat](https://img.shields.io/badge/Netcat-000000)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4)
-
-## ![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
+## ![Profile Views](https://komarev.com/ghpvc/?username=merttanitan1)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
