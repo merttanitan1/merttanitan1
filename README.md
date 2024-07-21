@@ -22,7 +22,7 @@ Currently, I'm focused on the realms of decentralized finance (DeFi) and web3, w
 - Learning Solidity and advanced smart contract development
 - Fullstack Web3 development course
 - Ethereum development tasks
-- Various bots and scripts, with results showcased [here](https://github.com/merttanitan1?tab=repositories)
+- Various DApps and projects, with results showcased [here](https://github.com/merttanitan1?tab=repositories)
 
 ## Languages and Tools
 
