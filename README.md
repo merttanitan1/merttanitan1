@@ -104,3 +104,5 @@ Currently, I'm focused on the realms of decentralized finance (DeFi) and web3, w
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merttanitan1&layout=compact&theme=radical)
 
 ![snake](https://github.com/merttanitan1/merttanitan1/blob/output/github-contribution-grid-snake-dark.svg)
+
+[![coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/merttanitan)
